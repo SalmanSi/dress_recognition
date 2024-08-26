@@ -1,0 +1,8 @@
+An example picture from the clothes-dataset dataset depicting a long pant
+An example picture from the clothes-dataset dataset depicting long pants
+An example picture from the clothes-dataset dataset depicting a long sleeve
+An example picture from the clothes-dataset dataset depicting a short pant
+An example picture from the clothes-dataset dataset depicting short pants
+An example picture from the clothes-dataset dataset depicting a short sleeve
+An example picture from the clothes-dataset dataset depicting short sleeves
+An example picture from the clothes-dataset dataset depicting a sleeveless
